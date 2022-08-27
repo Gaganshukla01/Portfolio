@@ -1,0 +1,95 @@
+.header{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.header-container{
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+.kart{
+    margin-top: 5rem;
+}
+/* CTA */
+.cta{
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+}
+
+
+/* Linkmedia */
+.header-social{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    left: 300px;
+    bottom: 3rem;
+
+}
+.header-social::after{
+    content: "";
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+}
+.me-container{
+   
+    height: 30rem;
+    width: 27rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+    overflow: hidden;
+    padding: 1.5rem;
+    border-radius: 2rem;
+    
+    
+}
+.Helol
+{
+    height: 30rem;
+    width: 25rem;
+    margin: 0 auto;
+
+    position: absolute;
+    left: 568px;
+    top: 295px;
+    border-radius: 2rem;
+
+}
+
+.scroll_down{
+    position: absolute;
+    
+    right: 300px;
+    bottom: 8rem;
+    transform: rotate(90deg);
+    font-weight: 300;
+    font-size: 0.9rem;
+
+}
+
+/* media query Tab */
+/* @media screen and (max-width:1024px){
+    header{
+        height: 68vh;
+    }
+
+  } */
+
+  /* media query Mobile */
+
+  /* @media screen and (max-width:600px){
+    header{
+        height: 100vh;
+    }
+    .header-social,.scroll_down{
+        display: none;
+    }
+  } */
+
