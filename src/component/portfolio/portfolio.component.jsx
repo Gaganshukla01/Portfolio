@@ -12,25 +12,25 @@ const data=[
     {
         id: 1,
         image: IMG6,
-        title: 'Tech website',
-        github: 'https://github.com/Kartikay123/reservet',
-        demo: 'https://tech-site-01.netlify.app',
+        title: 'Gym Website',
+        github: 'https://github.com/Gaganshukla01/Gymfronted',
+        demo: 'https://gymwebsitefronted.netlify.app',
 
     },
     {
         id: 2,
         image: IMG2,
-        title: 'E-commerce',
-        github: 'https://github.com/Gaganshukla01/foodwebsite',
-        demo: 'https://react-e-commerce-project123.netlify.app/',
+        title: 'Card Rush',
+        github: 'https://github.com/Gaganshukla01/Cardgame',
+        demo: 'https://cardrush.netlify.app',
 
     },
     {
         id: 3,
         image: IMG5,
-        title: 'To do website',
+        title: 'E-commerce',
         github: 'https://github.com/Gaganshukla01/todolist',
-        demo: 'https://chractershifter.netlify.app',
+        demo: 'https://react-e-commerce-project123.netlify.app/',
 
     },
     // {
