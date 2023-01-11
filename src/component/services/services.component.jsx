@@ -13,17 +13,17 @@ const Service = () => {
             <div className="container code">
                 <div className="coding-head">
                     <SiLeetcode className='icon-c' />
-                    <a href="https://leetcode.com/Kartikay123/" target="_blank" className="l-edit">Leetcode</a>
+                    <a href="https://leetcode.com/gaganshuk/" rel="noreferrer" target="_blank" className="l-edit">Leetcode</a>
                     <small className="up-dist">
                         <p>
-                            1. Solved 500+ Problems.
+                            1. Solved 100+ Problems.
                             <br/>
                             2. Max. Rating is 1723.
                         </p>
                     </small>
                 </div>
 
-                <div className="coding-head">
+                {/* <div className="coding-head">
                     <SiCodechef className='icon-c' />
                     <a href="https://www.codechef.com/users/kartikay_12345" target="_blank" className="l-edit">Codechef</a>
                     <small className="up-dist">
@@ -33,11 +33,11 @@ const Service = () => {
                             2. Max. Rating is 1818.
                         </p>
                     </small>
-                </div>
+                </div> */}
 
                 <div className="coding-head">
                     <SiCodeforces className='icon-c' />
-                    <a href="https://codeforces.com/profile/Kartikay123" target="_blank" className="lcf-edit">Codeforces</a>
+                    <a href="" target="_blank" className="lcf-edit">Codeforces</a>
                     <small className="up-dist">
                         <p>
                             1. Max. Rating is 1166.
@@ -47,12 +47,12 @@ const Service = () => {
 
                 <div className="coding-head">
                     <SiGeeksforgeeks className='icon-c' />
-                    <a href="https://auth.geeksforgeeks.org/user/kartikg052/practice/" target="_blank" className="lgfg-edit">Geeks</a>
+                    <a href="https://auth.geeksforgeeks.org/user/gagan9039118901" target="_blank" className="lgfg-edit">Geeks</a>
                     <small className="up-dist">
                         <p>
-                        1. Solved 400+ Problems.
+                        1. Solved 50+ Problems.
                             <br/>
-                        2. Max. Score is 1113.
+                        2. Max. Score is 112.
                         </p>
                     </small>
                 </div>

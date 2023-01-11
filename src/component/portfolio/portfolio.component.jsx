@@ -20,9 +20,9 @@ const data=[
     {
         id: 2,
         image: IMG2,
-        title: 'Card Rush',
-        github: 'https://github.com/Gaganshukla01/Cardgame',
-        demo: 'https://cardrush.netlify.app',
+        title: 'Food order',
+        github: 'https://github.com/Gaganshukla01/cafenight',
+        demo: 'https://night-light-cafe.netlify.app',
 
     },
     {
@@ -60,8 +60,8 @@ const Portfolio = () => {
                     </div>
                     <h3 className="kkk">{title}</h3>
                     <div className="portfolio-item-cta">
-                    <a href={github} className="btn" target='_blank'>Github</a>
-                        <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a>
+                    <a href={github} className="btn" rel="noreferrer" target='_blank'>Github</a>
+                        <a href={demo} className="btn btn-primary" rel="noreferrer" target='_blank'>Live Demo</a>
                     </div>
                        
 
